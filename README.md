@@ -1,0 +1,3 @@
+Healthcare fraud is a growing concern worldwide, leading to billions of dollars in losses each year. Fraudulent claims, upcoding, phantom billing, and unnecessary procedures not only burden healthcare systems financially but also compromise the quality of patient care. Traditional methods of fraud detection often rely on manual audits and rule-based systems, which are time-consuming and prone to human error.
+
+This project aims to leverage the power of Machine Learning (ML) to detect potential fraud in healthcare claims efficiently and accurately. By analyzing large datasets containing patient records, billing information, and service details, the model can learn patterns associated with fraudulent activities.
