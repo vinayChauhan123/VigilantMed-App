@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Host+Grotesk:300,regular,500,600,700,800,300italic,italic,500italic,600italic,700italic,800italic);
+
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default, cupcake;
+}
+
+* {
+  font-family: "Host Grotesk", sans-serif;
+}
+
+.active {
+  @apply text-accent;
+}
